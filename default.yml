@@ -12,7 +12,7 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 org_settings:
-  org_info:
+  org_info: kc-gitops
     ###########################################################
     # The name of your organization is displayed to end users
     # during the setup experience for new hardware, and to admins
@@ -22,6 +22,8 @@ org_settings:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
     org_name: kc-gitops
+    fleet_desktop:
+	transparency_url: https://catoftheday.com
 
   server_settings:
     ###########################################################
