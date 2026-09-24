@@ -136,5 +136,6 @@ controls:
 # > and could make it harder to do prompts like, for example:
 # > "Make sure everyone in finance has the latest version of Excel"
 ###########################################################
+
 labels:
   - paths: ./labels/*.yml
