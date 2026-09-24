@@ -12,7 +12,7 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 org_settings:
-  org_info: kc-gitops
+  org_info: 
     ###########################################################
     # The name of your organization is displayed to end users
     # during the setup experience for new hardware, and to admins
