@@ -1,11 +1,11 @@
 - name: Department - Engineering
-description: Eng Hosts
-label_membership_type: host_vitals
-#criteria:
-#  vital: end_user_idp_department
-#  value: Engineering
+ description: Eng Hosts
+ label_membership_type: host_vitals
+ criteria:
+  vital: end_user_idp_department
+  value: Engineering
 
 - name: C-Suite
-description: C-Suite
-label_membership_type: manual
-hosts:
+ description: C-Suite
+ label_membership_type: manual
+ hosts:
